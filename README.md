@@ -1,1 +1,1 @@
-# Estadistica_basica
+# Estadistica_basica Uptc con Jupyter
